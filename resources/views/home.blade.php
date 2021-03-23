@@ -20,7 +20,7 @@
                     <tr><th>Username</th><th>:</th><td>{{ $user->username }}</td></tr>
                     <tr><th>Name</th><th>:</th><td> {{ $user->name }}</td></tr>
                     <tr><th>Email</th><th>:</th><td> {{ $user->email }}</td></tr>
-                    <tr><th>Create At</th><th>:</th><td> {{ $user->crated_at }}</td></tr>
+                    <tr><th>Created At</th><th>:</th><td> {{ $user->created_at }}</td></tr>
                     </table>
                 </div>
             </div>
